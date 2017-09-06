@@ -15,8 +15,8 @@ Users should also be able to organize their books into lists.
 I want to deliver a fullstack app with the features I just listed, but I need feedback on whether my pitch is too ambitious or not ambitous enough.
 
 #### Stack:
-
-I'll probably need a backend if I want to let users make accounts, right?
+- react, redux, router, typescript 
+- Node => express;knex/postgres
 
 #### APIs:
 
@@ -39,7 +39,9 @@ so I want to get my Redux hooked up as soon as possible. I'll also need to figur
 
 #### MVP
 
-A user should be able to add a favorite book, click on it, and then see a recommendation displayed.
+- A user should be able to add a favorite book, click on it, and then see a recommendation displayed.
+- User can join a book club and users can vote on book. 
+- typescript 
 
 #### Nice To Haves
 
